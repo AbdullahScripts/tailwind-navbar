@@ -22,6 +22,6 @@ You can view a live demo of the responsive Tailwind CSS navbar [here](#).
    git clone https://github.com/your-username/your-repo.git
 
 2. **it is complete setup (just type this command)**
-   - npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
-     
- 3. **Feel fry to adjust it according to your need**  
+
+ ```bash
+    npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch 
